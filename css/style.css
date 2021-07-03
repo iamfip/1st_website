@@ -1,0 +1,19 @@
+
+body {
+  margin: 25px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color:rgb(240, 240, 240);
+  h1 {
+    font-size: 35px;
+    font-weight: normal;
+  }
+  p {
+    color: #0b44ffc2 ;
+    font-size: 20px;
+    border: #b10e0e;
+  }
+  .someclass{
+    color: greenyellow;
+  }
+  #someid{color: red;}
+   
