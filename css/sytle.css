@@ -1,0 +1,13 @@
+body {
+    background-image: url();
+    background-color: hsl(0, 0%, 100%);
+  }
+  h1 {
+    color: #000000;
+  }
+  p {
+    color: #0b44ffc2 ;
+    font-size: 20px;
+    border: #b10e0e;
+  }
+   
